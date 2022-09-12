@@ -1,6 +1,5 @@
 import 'package:fizikl/blocs/login/repository/user_repository.dart';
 import 'package:fizikl/ui/app_view.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
